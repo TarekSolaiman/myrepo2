@@ -15,17 +15,17 @@ body {
     display: flex;
 }
 
-.first-benar {
+.firstbenar {
     background-image: url(../Images/top-banner.png);
     background-repeat: no-repeat;
 }
 
-.last-blog {
+.lastblog {
     background-image: url(../Images/exp-bg.png);
     background-repeat: no-repeat;
 }
 
-.sacend-benar {
+.sacendbenar {
     background-image: url(../Images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
