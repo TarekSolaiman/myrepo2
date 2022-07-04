@@ -20,6 +20,11 @@ body {
     background-repeat: no-repeat;
 }
 
+.last-blog {
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
 .sacend-benar {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
@@ -62,10 +67,6 @@ body {
     padding-left: 10%;
 }
 
-.last-blog {
-    background-image: url(../image/exp-bg.png);
-    background-repeat: no-repeat;
-}
 
 .fot {
     text-align: center;
